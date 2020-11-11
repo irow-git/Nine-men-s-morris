@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\bin\Release\Дама.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\bin\Release\Дама.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\obj\x86\Release\Дама.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\obj\x86\Release\Дама.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Дама\Дама\obj\x86\Release\Дама.pdb
